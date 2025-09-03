@@ -285,7 +285,7 @@ function App() {
                {/* Copyright */}
           <div className="mt-8 pt-6 border-t border-purple-500/10">
             <p className="text-xs text-gray-500">
-              © 2025 CSE AI/ML Department, BCREC. Made with ❤️ SHIVAM KUMAR MISHRA
+              © 2025 ECE Department, BCREC. Made with ❤️ SHIVAM KUMAR MISHRA
             </p>
           </div>
             </div>
