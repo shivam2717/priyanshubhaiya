@@ -281,6 +281,13 @@ function App() {
               <p className="text-gray-500 text-sm mt-2">
                 Dr. B. C. Roy Engineering College
               </p>
+              
+               {/* Copyright */}
+          <div className="mt-8 pt-6 border-t border-purple-500/10">
+            <p className="text-xs text-gray-500">
+              © 2025 CSE AI/ML Department, BCREC. Made with ❤️ PRAVEEN KUMAR JHA
+            </p>
+          </div>
             </div>
           </div>
         </footer>
